@@ -90,7 +90,7 @@ Analyze the company's financial performance and profitability.
 
 ## 📊 Sales View
 
-![Sales Dashboard](Images/Sales%20View-1.png)
+![Sales Dashboard](Images/Sales_View_1.png)
 
 ### Business Objective
 
@@ -116,13 +116,13 @@ A custom tooltip provides additional business details when hovering over visuals
 
 ### Custom Tooltip
 
-![Sales Custom Tooltip](Images/Sales%20View-2.png)
+![Sales Custom Tooltip](Images/Sales_View_2.png)
 
 ---
 
 ## 📣 Marketing View
 
-![Marketing Dashboard](Images/Marketing%20View.png)
+![Marketing Dashboard](Images/Marketing_View.png)
 
 ### Business Objective
 
@@ -145,7 +145,7 @@ Evaluate product performance and market competitiveness.
 
 ## 🚚 Supply Chain View
 
-![Supply Chain Dashboard](Images/Supply%20Chain%20View.png)
+![Supply Chain Dashboard](Images/Supply_Chain_View.png)
 
 ### Business Objective
 
@@ -167,7 +167,7 @@ Monitor forecasting accuracy and operational efficiency.
 
 ## 📈 Executive View
 
-![Executive Dashboard](Images/Executive%20View.png)
+![Executive Dashboard](Images/Executive_View.png)
 
 ### Business Objective
 
