@@ -50,7 +50,8 @@ The report includes dynamic DAX measures, interactive slicers, bookmarks, drill-
 
 ## 🏠 Home
 
-![Home Dashboard](Images/Home.png)
+[<img width="1912" height="912" alt="Home" src="https://github.com/user-attachments/assets/4589eadb-3986-4ed5-852a-7c8e3e2b9137" />](https://github.com/Amol-Idhate/AtliQ-Business-Insights-360-Power-BI-Dashboard/blob/main/Images/Home.png)
+
 
 Acts as the navigation page for all dashboards.
 
