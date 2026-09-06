@@ -65,7 +65,7 @@ Acts as the navigation page for all dashboards.
 
 ## 💰 Finance View
 
-https://github.com/Amol-Idhate/AtliQ-Business-Insights-360-Power-BI-Dashboard/blob/main/Images/Finance%20View.png
+Images/Finance View.png
 
 ### Business Objective
 
