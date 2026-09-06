@@ -90,7 +90,7 @@ Analyze the company's financial performance and profitability.
 
 ## 📊 Sales View
 
-![Sales Dashboard](Images/Sales_View_1.png)
+![Sales Dashboard](Images/Sales_View-1.png)
 
 ### Business Objective
 
@@ -116,7 +116,7 @@ A custom tooltip provides additional business details when hovering over visuals
 
 ### Custom Tooltip
 
-![Sales Custom Tooltip](Images/Sales_View_2.png)
+![Sales Custom Tooltip](Images/Sales_View-2.png)
 
 ---
 
